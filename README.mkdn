@@ -13,7 +13,7 @@ Here's how to do that https://docs.github.com/en/authentication/connecting-to-gi
 To initialize your local repository using the manifest for Flamingo :-
 
 ```bash
-repo init -u git@github.com:Flamingo-OS/manifest.git -b A13
+repo init -u https://github.com/Flamingo-OS/manifest.git -b A13
 ```
 Then to sync up:
 ```bash
